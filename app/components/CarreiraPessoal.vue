@@ -22,7 +22,7 @@
             <div class="flex items-center gap-2">
               <UIcon name="clarity:briefcase-line" class="size-5" />
               <span class="font-medium text-[17px]"
-                >Gazzi Sistemas - Desenvolvedor FullStack Jr</span
+                >Gazzi Sistemas - Desenvolvedor FullStack</span
               >
             </div>
             <span class="font-normal">

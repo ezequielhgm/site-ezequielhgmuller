@@ -8,19 +8,16 @@
       <p class="leading-relaxed">
         Olá! Sou
         <span class="font-bold text-secondary"
-          >Ezequiel Henrique Gazolla Muller</span
-        >. Sou Desenvolvedor Full Stack com foco em
-        <span class="font-bold">JavaScript</span> e
-        <span class="font-bold">TypeScript</span>, tenho atuação profissional em
-        sistemas web, atualmente trabalho com Vue.js no front-end e Java no
-        back-end em sistemas legados. No meu dia a dia, atuo na implementação e
-        manutenção de funcionalidades, interfaces interativas, integração entre
-        camadas, criação de consultas SQL, desenvolvimento de APIs REST e
-        evolução de sistemas seguindo padrões arquiteturais já estabelecidos,
-        sempre com foco em código limpo, manutenção e escalabilidade.
+          >Sou Desenvolvedor Full Stack com prioridade em back-end</span
+        >, atuando no desenvolvimento de sistemas web utilizando Java no
+        back-end e Vue.js no front-end. Tenho experiência profissional em
+        sistemas legados, trabalhando com implementação e manutenção de
+        funcionalidades, integração entre camadas, construção de APIs REST,
+        criação de consultas SQL e evolução de sistemas seguindo padrões
+        arquiteturais já estabelecidos.
         <span class="font-bold"
-          >Atualmente, estou aprofundando meus conhecimentos em TypeScript,
-          NestJS e arquitetura de back-end.
+          >Atualmente, estou aprofundando meus conhecimentos em Java com foco em
+          Spring Boot e arquitetura de back-end moderno.
         </span>
       </p>
     </div>
@@ -57,14 +54,14 @@
 <script setup lang="ts">
 const habilidades = [
   { label: 'Git', src: '/stack/git.svg' },
-  { label: 'TailwindCSS', src: '/stack/tailwindcss.svg' },
-  { label: 'JavaScript', src: '/stack/javascript.svg' },
-  { label: 'TypeScript', src: '/stack/typescript.svg' },
-  { label: 'Nest.js', src: '/stack/nest.svg' },
+  { label: 'Java', src: '/stack/java.svg' },
   { label: 'PostgreSQL', src: '/stack/postgresql.svg' },
   { label: 'MySQL', src: '/stack/mysql.png' },
-  { label: 'Quasar Framework', src: '/stack/quasar.png' },
+  { label: 'JavaScript', src: '/stack/javascript.svg' },
+  { label: 'TypeScript', src: '/stack/typescript.svg' },
   { label: 'Vue.js', src: '/stack/vue.svg' },
+  { label: 'Quasar Framework', src: '/stack/quasar.png' },
+  { label: 'TailwindCSS', src: '/stack/tailwindcss.svg' },
 ]
 </script>
 <style scoped>

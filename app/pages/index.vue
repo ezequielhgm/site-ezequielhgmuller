@@ -5,14 +5,14 @@
     >
       <div class="text-center md:text-left md:mr-25">
         <h1 class="text-2xl md:text-4xl font-semibold leading-tight">
-          Ezequiel H. G. Muller
+          Ezequiel H. G. Müller
         </h1>
         <p class="mt-2 text-lg md:text-2xl text-gray-600">
           Desenvolvedor FullStack
         </p>
       </div>
       <NuxtImg
-        src="/perfil.jpg"
+        src="/perfil.png"
         alt="Perfil"
         class="rounded-full border-4 border-double w-36 h-36 md:w-52 md:h-52 object-cover"
       />

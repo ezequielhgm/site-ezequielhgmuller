@@ -61,7 +61,7 @@
 
           <!-- instagram -->
           <a
-            href="https://instagram.com/ezequielmuller__"
+            href="https://instagram.com/ezequielhgmuller"
             target="_blank"
             rel="noopener noreferrer"
             class="flex items-center gap-4 transition-all duration-300 hover:translate-x-2 cursor-pointer group"
@@ -75,7 +75,7 @@
               <p
                 class="font-semibold text-gray-900 dark:text-white group-hover:text-pink-500 transition-colors"
               >
-                @ezequielmuller__
+                @ezequielhgmuller
               </p>
             </div>
             <UIcon

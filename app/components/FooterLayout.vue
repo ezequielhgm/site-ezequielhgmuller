@@ -30,7 +30,7 @@
       <UButton
         color="neutral"
         variant="ghost"
-        to="https://www.instagram.com/ezequielmuller__/"
+        to="https://www.instagram.com/ezequielhgmuller/"
         target="_blank"
         icon="entypo-social:instagram"
         aria-label="Instagram"

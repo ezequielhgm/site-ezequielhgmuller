@@ -1,10 +1,4 @@
 <template>
-  <div class="flex justify-center mt-4 mb-4">
-    <h1 class="text-[22px] md:text-2xl font-medium text-center">
-      Formas de Contato
-    </h1>
-  </div>
-
   <div class="flex justify-center px-4 md:px-0">
     <div class="w-full max-w-6xl">
       <UCard variant="subtle" class="flex flex-col rounded-2xl">

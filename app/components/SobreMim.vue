@@ -1,8 +1,5 @@
 <template>
   <div class="flex flex-col items-center mt-4 px-4 sm:px-6 md:px-10">
-    <!-- sobre mim -->
-    <h1 class="text-[22px] font-medium md:text-2xl mb-4">Sobre mim</h1>
-
     <div
       class="text-center border-gray-400 dark:border-gray-700 border-2 rounded-2xl shadow-sm backdrop-blur-sm w-full max-w-3xl p-6"
     >

@@ -4,8 +4,6 @@
     class="flex flex-col items-center gap-5 w-full max-w-4xl mx-auto mt-4 px-4"
   >
     <div class="w-full flex flex-col items-center">
-      <div class="text-[22px] font-medium md:text-2xl mb-6">Formação</div>
-
       <div
         class="hidden md:flex flex-row items-start justify-center gap-0 w-full relative"
       >
@@ -46,15 +44,8 @@
       </div>
     </div>
 
-    <USeparator
-      icon="sidekickicons:chevron-left-right-16-solid"
-      class="w-full"
-      size="sm"
-    />
-
     <!-- Linha 2: Experiência em linha separada -->
     <div class="w-full flex flex-col items-center">
-      <h1 class="text-[22px] font-medium md:text-2xl mb-4">Experiência</h1>
       <UCard variant="subtle" class="w-full max-w-2xl rounded-2xl">
         <template #header>
           <div class="flex items-center gap-2">

@@ -3,7 +3,7 @@
   <UFooter>
     <template #left>
       <p class="text-muted text-sm">
-        Ezequiel H. G. Muller © {{ new Date().getFullYear() }}
+        Ezequiel H. G. Müller © {{ new Date().getFullYear() }}
       </p>
     </template>
 
@@ -12,7 +12,7 @@
       <UButton
         color="neutral"
         variant="ghost"
-        to="https://github.com/ezequielhgmuller"
+        to="https://github.com/ezequielhgm"
         target="_blank"
         icon="i-simple-icons-github"
         aria-label="GitHub"
@@ -21,7 +21,7 @@
       <UButton
         color="neutral"
         variant="ghost"
-        to="https://www.linkedin.com/in/ezequielhgmuller/"
+        to="https://www.linkedin.com/in/ezequielhgm/"
         target="_blank"
         icon="entypo-social:linkedin"
         aria-label="LinkedIn"
@@ -30,7 +30,7 @@
       <UButton
         color="neutral"
         variant="ghost"
-        to="https://www.instagram.com/ezequielhgmuller/"
+        to="https://www.instagram.com/ezequielhgm/"
         target="_blank"
         icon="entypo-social:instagram"
         aria-label="Instagram"

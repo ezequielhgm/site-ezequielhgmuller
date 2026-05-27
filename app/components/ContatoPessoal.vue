@@ -11,7 +11,7 @@
         <div class="flex justify-center flex-col md:flex-row gap-6">
           <!-- github-->
           <a
-            href="https://github.com/ezequielhgmuller"
+            href="https://github.com/ezequielhgm"
             target="_blank"
             rel="noopener noreferrer"
             class="flex items-center gap-4 transition-all duration-300 hover:translate-x-2 cursor-pointer group"
@@ -25,7 +25,7 @@
               <p
                 class="font-semibold text-gray-900 dark:text-white group-hover:text-green-600 transition-colors"
               >
-                ezequielhgmuller
+                ezequielhgm
               </p>
             </div>
             <UIcon
@@ -36,7 +36,7 @@
 
           <!-- linkedIn -->
           <a
-            href="https://www.linkedin.com/in/ezequielhgmuller"
+            href="https://www.linkedin.com/in/ezequielhgm"
             target="_blank"
             rel="noopener noreferrer"
             class="flex items-center gap-4 transition-all duration-300 hover:translate-x-2 cursor-pointer group"
@@ -50,7 +50,7 @@
               <p
                 class="font-semibold text-gray-900 dark:text-white group-hover:text-blue-600 transition-colors"
               >
-                ezequielhgmuller
+                ezequielhgm
               </p>
             </div>
             <UIcon
@@ -61,7 +61,7 @@
 
           <!-- instagram -->
           <a
-            href="https://instagram.com/ezequielhgmuller"
+            href="https://instagram.com/ezequielhgm"
             target="_blank"
             rel="noopener noreferrer"
             class="flex items-center gap-4 transition-all duration-300 hover:translate-x-2 cursor-pointer group"
@@ -75,7 +75,7 @@
               <p
                 class="font-semibold text-gray-900 dark:text-white group-hover:text-pink-500 transition-colors"
               >
-                @ezequielhgmuller
+                @ezequielhgm
               </p>
             </div>
             <UIcon
@@ -118,7 +118,7 @@ const emailCopiado = ref(false)
 // Funções email ----
 const copiarEmail = async () => {
   try {
-    await navigator.clipboard.writeText('zikimuller017@gmail.com')
+    await navigator.clipboard.writeText('ezequielhgm@gmail.com')
     emailCopiado.value = true
     toast.add({
       color: 'success',

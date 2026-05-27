@@ -11,11 +11,10 @@
         <span class="font-bold text-secondary"
           >Sou Desenvolvedor Full Stack com foco em Backend.
         </span>
-        Formado como Técnico em Informática pelo Instituto Federal do Rio Grande
-        do Sul (IFRS) e atualmente graduando em Bacharelado em Ciência da
-        Computação pela Universidade Regional Integrada do Alto Uruguai e das
-        Missões (URI). Tenho <b> experiência no desenvolvimento de sistemas</b>,
-        atuando com <b>APIs REST</b>, <b>bancos de dados SQL</b>, criação de
+        Formado como Técnico em Informática pelo IFRS e atualmente graduando em
+        Bacharelado em Ciência da Computação pela URI. Tenho
+        <b> experiência no desenvolvimento de sistemas</b>, atuando com
+        <b>APIs REST</b>, <b>bancos de dados SQL</b>, criação de
         <b
           >interfaces intuitivas e manutenção/evolução de software seguindo
           padrões arquiteturais</b

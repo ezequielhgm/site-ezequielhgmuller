@@ -10,7 +10,7 @@
       <!-- Logo -->
       <NuxtLink
         to="/"
-        class="flex items-center gap-2 pr-3 mr-1 border-r border-gray-200 dark:border-gray-800 group"
+        class="flex items-center gap-2 pr-3 mr-1 border-r border-gray-300 dark:border-gray-600 group"
       >
         <div
           class="w-7 h-7 rounded-lg bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 flex items-center justify-center overflow-hidden flex-shrink-0"
@@ -49,7 +49,7 @@
 
       <!-- Divider -->
       <div
-        class="w-px h-5 bg-gray-200 dark:bg-gray-800 mx-1 flex-shrink-0"
+        class="w-px h-5 bg-gray-300 dark:bg-gray-600 mx-1 flex-shrink-0"
         aria-hidden="true"
       />
 
@@ -101,7 +101,7 @@
 
       <!-- Divider -->
       <div
-        class="w-px h-5 bg-gray-200 dark:bg-gray-800 mx-1 flex-shrink-0"
+        class="w-px h-5 bg-gray-300 dark:bg-gray-600 mx-1 flex-shrink-0"
         aria-hidden="true"
       />
 
@@ -151,9 +151,7 @@ const activeSection = ref('')
 const scrollTo = (hash: string) => {
   const el = document.getElementById(hash)
   if (!el) return
-
-  const navbarHeight = 80
-  const top = el.getBoundingClientRect().top + window.scrollY - navbarHeight
+  const top = el.getBoundingClientRect().top + window.scrollY - 80
   window.scrollTo({ top, behavior: 'smooth' })
   activeSection.value = hash
 }

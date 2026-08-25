@@ -22,7 +22,7 @@
           class="relative rounded-full p-[3px] bg-gradient-to-br from-gray-400 via-gray-200 to-gray-400 dark:from-gray-600 dark:via-gray-800 dark:to-gray-600"
         >
           <NuxtImg
-            src="/perfil.png"
+            src="/perfil.jpeg"
             alt="Ezequiel H. G. Müller"
             class="w-28 h-28 md:w-36 md:h-36 rounded-full object-cover ring-2 ring-white dark:ring-gray-950"
           />
